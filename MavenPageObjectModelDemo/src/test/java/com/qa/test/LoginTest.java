@@ -20,6 +20,7 @@ public void browserPage() {
 public void Test_1() {
 	System.out.println("Test 1");
 	l.Login();
+	//login
 }
 	
 		
