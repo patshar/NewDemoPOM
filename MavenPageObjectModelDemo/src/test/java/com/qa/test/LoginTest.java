@@ -10,7 +10,7 @@ public class LoginTest {
 	com.qa.pages.HomePage h=new com.qa.pages.HomePage();
 	com.qa.pages.LoginPage l=new com.qa.pages.LoginPage();
 	com.qa.libs.TestWebPage w=new com.qa.libs.TestWebPage();
-	
+	     
 @BeforeTest
 public void browserPage() {
 	w.OpenWeb();
